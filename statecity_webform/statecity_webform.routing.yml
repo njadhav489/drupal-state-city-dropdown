@@ -1,0 +1,8 @@
+statecity_webform.api_cities:
+  path: '/api/cities/{state_code}'
+  defaults:
+    _controller: '\Drupal\statecity_webform\Controller\StatecityWebformController::getCities'
+    _title: 'Get Cities'
+  requirements:
+    _permission: 'access content'
+    state_code: '[a-zA-Z]+'

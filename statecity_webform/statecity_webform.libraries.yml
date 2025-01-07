@@ -1,0 +1,6 @@
+statecity_webform:
+  js:
+    js/statecity_webform.js: {}
+  dependencies:
+    - core/jquery
+    - core/drupalSettings

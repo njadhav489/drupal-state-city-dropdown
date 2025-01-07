@@ -1,0 +1,6 @@
+name: 'Statecity Webform'
+type: module
+description: 'Custom module to handle API calls for webform state cities.'
+core_version_requirement: ^8 || ^9
+dependencies:
+  - webform:webform

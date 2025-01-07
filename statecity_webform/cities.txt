@@ -1,0 +1,640 @@
+Anantnag: Anantnag
+Bandipore: Bandipore
+Baramulla: Baramulla
+Budgam: Budgam
+Doda: Doda
+Ganderbal: Ganderbal
+Jammu: Jammu
+Kargil: Kargil
+Kathua: Kathua
+Kishtwar: Kishtwar
+Kulgam: Kulgam
+Kupwara: Kupwara
+'Leh (Ladakh)': 'Leh (Ladakh)'
+Poonch: Poonch
+Pulwama: Pulwama
+Rajouri: Rajouri
+Ramban: Ramban
+Reasi: Reasi
+Samba: Samba
+Shopian: Shopian
+Srinagar: Srinagar
+Udhampur: Udhampur
+'Bilaspur (Himachal Pradesh)': 'Bilaspur (Himachal Pradesh)'
+Chamba: Chamba
+'Hamirpur (Himachal Pradesh)': 'Hamirpur (Himachal Pradesh)'
+Kangra: Kangra
+Kinnaur: Kinnaur
+Kullu: Kullu
+'Lahul & Spiti': 'Lahul & Spiti'
+Mandi: Mandi
+Shimla: Shimla
+Sirmaur: Sirmaur
+Solan: Solan
+Una: Una
+Amritsar: Amritsar
+Barnala: Barnala
+Bathinda: Bathinda
+Faridkot: Faridkot
+'Fatehgarh Sahib': 'Fatehgarh Sahib'
+Firozpur: Firozpur
+Gurdaspur: Gurdaspur
+Hoshiarpur: Hoshiarpur
+Jalandhar: Jalandhar
+Kapurthala: Kapurthala
+Ludhiana: Ludhiana
+Mansa: Mansa
+Moga: Moga
+Muktsar: Muktsar
+Patiala: Patiala
+'Rupnagar (Ropar)': 'Rupnagar (Ropar)'
+'Sahibzada Ajit Singh Nagar (Mohali)': 'Sahibzada Ajit Singh Nagar (Mohali)'
+Sangrur: Sangrur
+'Shahid Bhagat Singh Nagar (Nawanshahr)': 'Shahid Bhagat Singh Nagar (Nawanshahr)'
+'Tarn Taran': 'Tarn Taran'
+Chandigarh: Chandigarh
+Almora: Almora
+Bageshwar: Bageshwar
+Chamoli: Chamoli
+Champawat: Champawat
+Dehradun: Dehradun
+Haridwar: Haridwar
+Nainital: Nainital
+'Pauri Garhwal': 'Pauri Garhwal'
+Pithoragarh: Pithoragarh
+Rudraprayag: Rudraprayag
+'Tehri Garhwal': 'Tehri Garhwal'
+'Udham Singh Nagar': 'Udham Singh Nagar'
+Uttarkashi: Uttarkashi
+Ambala: Ambala
+Bhiwani: Bhiwani
+Faridabad: Faridabad
+Fatehabad: Fatehabad
+Gurgaon: Gurgaon
+Hisar: Hisar
+Jhajjar: Jhajjar
+Jind: Jind
+Kaithal: Kaithal
+Karnal: Karnal
+Kurukshetra: Kurukshetra
+Mahendragarh: Mahendragarh
+Mewat: Mewat
+Palwal: Palwal
+Panchkula: Panchkula
+Panipat: Panipat
+Rewari: Rewari
+Rohtak: Rohtak
+Sirsa: Sirsa
+Sonipat: Sonipat
+'Yamuna Nagar': 'Yamuna Nagar'
+'Central Delhi': 'Central Delhi'
+'East Delhi': 'East Delhi'
+'New Delhi': 'New Delhi'
+'North Delhi': 'North Delhi'
+'North East Delhi': 'North East Delhi'
+'North West Delhi': 'North West Delhi'
+'South Delhi': 'South Delhi'
+'South West Delhi': 'South West Delhi'
+'West Delhi': 'West Delhi'
+Ajmer: Ajmer
+Alwar: Alwar
+Banswara: Banswara
+Baran: Baran
+Barmer: Barmer
+Bharatpur: Bharatpur
+Bhilwara: Bhilwara
+Bikaner: Bikaner
+Bundi: Bundi
+Chittorgarh: Chittorgarh
+Churu: Churu
+Dausa: Dausa
+Dholpur: Dholpur
+Dungarpur: Dungarpur
+Ganganagar: Ganganagar
+Hanumangarh: Hanumangarh
+Jaipur: Jaipur
+Jaisalmer: Jaisalmer
+Jalor: Jalor
+Jhalawar: Jhalawar
+Jhunjhunu: Jhunjhunu
+Jodhpur: Jodhpur
+Karauli: Karauli
+Kota: Kota
+Nagaur: Nagaur
+Pali: Pali
+'Pratapgarh (Rajasthan)': 'Pratapgarh (Rajasthan)'
+Rajsamand: Rajsamand
+'Sawai Madhopur': 'Sawai Madhopur'
+Sikar: Sikar
+Sirohi: Sirohi
+Tonk: Tonk
+Udaipur: Udaipur
+Agra: Agra
+Aligarh: Aligarh
+Allahabad: Allahabad
+'Ambedkar Nagar': 'Ambedkar Nagar'
+Auraiya: Auraiya
+Azamgarh: Azamgarh
+Bagpat: Bagpat
+Bahraich: Bahraich
+Ballia: Ballia
+Balrampur: Balrampur
+Banda: Banda
+Barabanki: Barabanki
+Bareilly: Bareilly
+Basti: Basti
+Bijnor: Bijnor
+Budaun: Budaun
+Bulandshahr: Bulandshahr
+Chandauli: Chandauli
+Chitrakoot: Chitrakoot
+Deoria: Deoria
+Etah: Etah
+Etawah: Etawah
+Faizabad: Faizabad
+Farrukhabad: Farrukhabad
+Fatehpur: Fatehpur
+Firozabad: Firozabad
+'Gautam Buddha Nagar': 'Gautam Buddha Nagar'
+Ghaziabad: Ghaziabad
+Ghazipur: Ghazipur
+Gonda: Gonda
+Gorakhpur: Gorakhpur
+Hamirpur: Hamirpur
+Hardoi: Hardoi
+Hathras: Hathras
+Jalaun: Jalaun
+Jaunpur: Jaunpur
+Jhansi: Jhansi
+'Jyotiba Phule Nagar': 'Jyotiba Phule Nagar'
+Kannauj: Kannauj
+'Kanpur Dehat': 'Kanpur Dehat'
+'Kanpur Nagar': 'Kanpur Nagar'
+'Kanshiram Nagar': 'Kanshiram Nagar'
+Kaushambi: Kaushambi
+Kheri: Kheri
+Kushinagar: Kushinagar
+Lalitpur: Lalitpur
+Lucknow: Lucknow
+Maharajganj: Maharajganj
+Mahoba: Mahoba
+Mainpuri: Mainpuri
+Mathura: Mathura
+Mau: Mau
+Meerut: Meerut
+Mirzapur: Mirzapur
+Moradabad: Moradabad
+Muzaffarnagar: Muzaffarnagar
+Pilibhit: Pilibhit
+Pratapgarh: Pratapgarh
+'Rae Bareli': 'Rae Bareli'
+Rampur: Rampur
+Saharanpur: Saharanpur
+'Sant Kabir Nagar': 'Sant Kabir Nagar'
+'Sant Ravidas Nagar (Bhadohi)': 'Sant Ravidas Nagar (Bhadohi)'
+Shahjahanpur: Shahjahanpur
+Shrawasti: Shrawasti
+Siddharthnagar: Siddharthnagar
+Sitapur: Sitapur
+Sonbhadra: Sonbhadra
+Sultanpur: Sultanpur
+Unnao: Unnao
+Varanasi: Varanasi
+Araria: Araria
+Arwal: Arwal
+'Aurangabad (Bihar)': 'Aurangabad (Bihar)'
+Banka: Banka
+Begusarai: Begusarai
+Bhagalpur: Bhagalpur
+Bhojpur: Bhojpur
+Buxar: Buxar
+Darbhanga: Darbhanga
+'East Champaran': 'East Champaran'
+Gaya: Gaya
+Gopalganj: Gopalganj
+Jamui: Jamui
+Jehanabad: Jehanabad
+'Kaimur (Bhabua)': 'Kaimur (Bhabua)'
+Katihar: Katihar
+Khagaria: Khagaria
+Kishanganj: Kishanganj
+Lakhisarai: Lakhisarai
+Madhepura: Madhepura
+Madhubani: Madhubani
+Munger: Munger
+Muzaffarpur: Muzaffarpur
+Nalanda: Nalanda
+Nawada: Nawada
+Patna: Patna
+Purnia: Purnia
+Rohtas: Rohtas
+Saharsa: Saharsa
+Samastipur: Samastipur
+Saran: Saran
+Sheikhpura: Sheikhpura
+Sheohar: Sheohar
+Sitamarhi: Sitamarhi
+Siwan: Siwan
+Supaul: Supaul
+Vaishali: Vaishali
+'West Champaran': 'West Champaran'
+'East Sikkim': 'East Sikkim'
+'North Sikkim': 'North Sikkim'
+'South Sikkim': 'South Sikkim'
+'West Sikkim': 'West Sikkim'
+Anjaw: Anjaw
+Changlang: Changlang
+'Dibang Valley': 'Dibang Valley'
+'East Kameng': 'East Kameng'
+'East Siang': 'East Siang'
+'Kurung Kumey': 'Kurung Kumey'
+Lohit: Lohit
+'Lower Dibang Valley': 'Lower Dibang Valley'
+'Lower Subansiri': 'Lower Subansiri'
+'Papum Pare': 'Papum Pare'
+Tawang: Tawang
+Tirap: Tirap
+'Upper Siang': 'Upper Siang'
+'Upper Subansiri': 'Upper Subansiri'
+'West Kameng': 'West Kameng'
+'West Siang': 'West Siang'
+Dimapur: Dimapur
+Kiphire: Kiphire
+Kohima: Kohima
+Longleng: Longleng
+Mokokchung: Mokokchung
+Mon: Mon
+Peren: Peren
+Phek: Phek
+Tuensang: Tuensang
+Wokha: Wokha
+Zunheboto: Zunheboto
+Bishnupur: Bishnupur
+Chandel: Chandel
+Churachandpur: Churachandpur
+'Imphal East': 'Imphal East'
+'Imphal West': 'Imphal West'
+Senapati: Senapati
+Tamenglong: Tamenglong
+Thoubal: Thoubal
+Ukhrul: Ukhrul
+Aizawl: Aizawl
+Champhai: Champhai
+Kolasib: Kolasib
+Lawngtlai: Lawngtlai
+Lunglei: Lunglei
+Mamit: Mamit
+Saiha: Saiha
+Serchhip: Serchhip
+Dhalai: Dhalai
+'North Tripura': 'North Tripura'
+'South Tripura': 'South Tripura'
+'West Tripura': 'West Tripura'
+'East Garo Hills': 'East Garo Hills'
+'East Khasi Hills': 'East Khasi Hills'
+'Jaintia Hills': 'Jaintia Hills'
+'Ri Bhoi': 'Ri Bhoi'
+'South Garo Hills': 'South Garo Hills'
+'West Garo Hills': 'West Garo Hills'
+'West Khasi Hills': 'West Khasi Hills'
+Baksa: Baksa
+Barpeta: Barpeta
+Bongaigaon: Bongaigaon
+Cachar: Cachar
+Chirang: Chirang
+Darrang: Darrang
+Dhemaji: Dhemaji
+Dhubri: Dhubri
+Dibrugarh: Dibrugarh
+'Dima Hasao (North Cachar Hills)': 'Dima Hasao (North Cachar Hills)'
+Goalpara: Goalpara
+Golaghat: Golaghat
+Hailakandi: Hailakandi
+Jorhat: Jorhat
+Kamrup: Kamrup
+'Kamrup Metropolitan': 'Kamrup Metropolitan'
+'Karbi Anglong': 'Karbi Anglong'
+Karimganj: Karimganj
+Kokrajhar: Kokrajhar
+Lakhimpur: Lakhimpur
+Morigaon: Morigaon
+Nagaon: Nagaon
+Nalbari: Nalbari
+Sivasagar: Sivasagar
+Sonitpur: Sonitpur
+Tinsukia: Tinsukia
+Udalguri: Udalguri
+Bankura: Bankura
+Bardhaman: Bardhaman
+Birbhum: Birbhum
+'Cooch Behar': 'Cooch Behar'
+'Dakshin Dinajpur (South Dinajpur)': 'Dakshin Dinajpur (South Dinajpur)'
+Darjiling: Darjiling
+Hooghly: Hooghly
+Howrah: Howrah
+Jalpaiguri: Jalpaiguri
+Kolkata: Kolkata
+Maldah: Maldah
+Murshidabad: Murshidabad
+Nadia: Nadia
+'North 24 Parganas': 'North 24 Parganas'
+'Paschim Medinipur (West Midnapore)': 'Paschim Medinipur (West Midnapore)'
+'Purba Medinipur (East Midnapore)': 'Purba Medinipur (East Midnapore)'
+Puruliya: Puruliya
+'South 24 Parganas': 'South 24 Parganas'
+'Uttar Dinajpur (North Dinajpur)': 'Uttar Dinajpur (North Dinajpur)'
+Bokaro: Bokaro
+Chatra: Chatra
+Deoghar: Deoghar
+Dhanbad: Dhanbad
+Dumka: Dumka
+'East Singhbhum': 'East Singhbhum'
+Garhwa: Garhwa
+Giridih: Giridih
+Godda: Godda
+Gumla: Gumla
+Hazaribagh: Hazaribagh
+Jamtara: Jamtara
+Khunti: Khunti
+Koderma: Koderma
+Latehar: Latehar
+Lohardaga: Lohardaga
+Pakur: Pakur
+Palamu: Palamu
+Ramgarh: Ramgarh
+Ranchi: Ranchi
+Sahibganj: Sahibganj
+Seraikela-Kharsawan: Seraikela-Kharsawan
+Simdega: Simdega
+'West Singhbhum': 'West Singhbhum'
+Angul: Angul
+Balangir: Balangir
+Baleswar: Baleswar
+Bargarh: Bargarh
+Bhadrak: Bhadrak
+Boudh: Boudh
+Cuttack: Cuttack
+Debagarh: Debagarh
+Dhenkanal: Dhenkanal
+Gajapati: Gajapati
+Ganjam: Ganjam
+Jagatsinghapur: Jagatsinghapur
+Jajapur: Jajapur
+Jharsuguda: Jharsuguda
+Kalahandi: Kalahandi
+Kandhamal: Kandhamal
+Kendrapara: Kendrapara
+Kendujhar: Kendujhar
+Khordha: Khordha
+Koraput: Koraput
+Malkangiri: Malkangiri
+Mayurbhanj: Mayurbhanj
+Nabarangapur: Nabarangapur
+Nayagarh: Nayagarh
+Nuapada: Nuapada
+Puri: Puri
+Rayagada: Rayagada
+Sambalpur: Sambalpur
+'Subarnapur (Sonapur)': 'Subarnapur (Sonapur)'
+Sundergarh: Sundergarh
+Bastar: Bastar
+'Bijapur (Chhattisgarh)': 'Bijapur (Chhattisgarh)'
+'Bilaspur (Chhattisgarh)': 'Bilaspur (Chhattisgarh)'
+'Dakshin Bastar Dantewada': 'Dakshin Bastar Dantewada'
+Dhamtari: Dhamtari
+Durg: Durg
+Janjgir-Champa: Janjgir-Champa
+Jashpur: Jashpur
+'Kabirdham (Kawardha)': 'Kabirdham (Kawardha)'
+Korba: Korba
+Koriya: Koriya
+Mahasamund: Mahasamund
+Narayanpur: Narayanpur
+'Raigarh (Chhattisgarh)': 'Raigarh (Chhattisgarh)'
+Raipur: Raipur
+Rajnandgaon: Rajnandgaon
+Surguja: Surguja
+'Uttar Bastar Kanker': 'Uttar Bastar Kanker'
+Alirajpur: Alirajpur
+Anuppur: Anuppur
+'Ashok Nagar': 'Ashok Nagar'
+Balaghat: Balaghat
+Barwani: Barwani
+Betul: Betul
+Bhind: Bhind
+Bhopal: Bhopal
+Burhanpur: Burhanpur
+Chhatarpur: Chhatarpur
+Chhindwara: Chhindwara
+Damoh: Damoh
+Datia: Datia
+Dewas: Dewas
+Dhar: Dhar
+Dindori: Dindori
+Guna: Guna
+Gwalior: Gwalior
+Harda: Harda
+Hoshangabad: Hoshangabad
+Indore: Indore
+Jabalpur: Jabalpur
+Jhabua: Jhabua
+Katni: Katni
+'Khandwa (East Nimar)': 'Khandwa (East Nimar)'
+'Khargone (West Nimar)': 'Khargone (West Nimar)'
+Mandla: Mandla
+Mandsaur: Mandsaur
+Morena: Morena
+Narsinghpur: Narsinghpur
+Neemuch: Neemuch
+Panna: Panna
+Raisen: Raisen
+Rajgarh: Rajgarh
+Ratlam: Ratlam
+Rewa: Rewa
+Sagar: Sagar
+Satna: Satna
+Sehore: Sehore
+Seoni: Seoni
+Shahdol: Shahdol
+Shajapur: Shajapur
+Sheopur: Sheopur
+Shivpuri: Shivpuri
+Sidhi: Sidhi
+Singrauli: Singrauli
+Tikamgarh: Tikamgarh
+Ujjain: Ujjain
+Umaria: Umaria
+Vidisha: Vidisha
+Ahmedabad: Ahmedabad
+Amreli: Amreli
+Anand: Anand
+Banaskantha: Banaskantha
+Bharuch: Bharuch
+Bhavnagar: Bhavnagar
+Dahod: Dahod
+'Gandhi Nagar': 'Gandhi Nagar'
+Jamnagar: Jamnagar
+Junagadh: Junagadh
+Kachchh: Kachchh
+Kheda: Kheda
+Mahesana: Mahesana
+Narmada: Narmada
+Navsari: Navsari
+'Panch Mahals': 'Panch Mahals'
+Patan: Patan
+Porbandar: Porbandar
+Rajkot: Rajkot
+Sabarkantha: Sabarkantha
+Surat: Surat
+'Surendra Nagar': 'Surendra Nagar'
+Tapi: Tapi
+'The Dangs': 'The Dangs'
+Vadodara: Vadodara
+Valsad: Valsad
+Daman: Daman
+Diu: Diu
+'Dadra & Nagar Haveli': 'Dadra & Nagar Haveli'
+'Ahmed Nagar': 'Ahmed Nagar'
+Akola: Akola
+Amravati: Amravati
+Aurangabad: Aurangabad
+Beed: Beed
+Bhandara: Bhandara
+Buldhana: Buldhana
+Chandrapur: Chandrapur
+Dhule: Dhule
+Gadchiroli: Gadchiroli
+Gondia: Gondia
+Hingoli: Hingoli
+Jalgaon: Jalgaon
+Jalna: Jalna
+Kolhapur: Kolhapur
+Latur: Latur
+Mumbai: Mumbai
+'Mumbai Suburban': 'Mumbai Suburban'
+Nagpur: Nagpur
+Nanded: Nanded
+Nandurbar: Nandurbar
+Nashik: Nashik
+Osmanabad: Osmanabad
+Parbhani: Parbhani
+Pune: Pune
+'Raigarh (Maharashtra)': 'Raigarh (Maharashtra)'
+Ratnagiri: Ratnagiri
+Sangli: Sangli
+Satara: Satara
+Sindhudurg: Sindhudurg
+Solapur: Solapur
+Thane: Thane
+Wardha: Wardha
+Washim: Washim
+Yavatmal: Yavatmal
+Adilabad: Adilabad
+Anantapur: Anantapur
+Chittoor: Chittoor
+'East Godavari': 'East Godavari'
+Guntur: Guntur
+Hyderabad: Hyderabad
+'Kadapa (Cuddapah)': 'Kadapa (Cuddapah)'
+'Karim Nagar': 'Karim Nagar'
+Khammam: Khammam
+Krishna: Krishna
+Kurnool: Kurnool
+Mahbubnagar: Mahbubnagar
+Medak: Medak
+Nalgonda: Nalgonda
+Nellore: Nellore
+Nizamabad: Nizamabad
+Prakasam: Prakasam
+Rangareddy: Rangareddy
+Srikakulam: Srikakulam
+Visakhapatnam: Visakhapatnam
+Vizianagaram: Vizianagaram
+Warangal: Warangal
+'West Godavari': 'West Godavari'
+Bagalkot: Bagalkot
+Bangalore: Bangalore
+'Bangalore Rural': 'Bangalore Rural'
+Belgaum: Belgaum
+Bellary: Bellary
+Bidar: Bidar
+'Bijapur (Karnataka)': 'Bijapur (Karnataka)'
+Chamrajnagar: Chamrajnagar
+Chickmagalur: Chickmagalur
+Chikkaballapur: Chikkaballapur
+Chitradurga: Chitradurga
+'Dakshina Kannada': 'Dakshina Kannada'
+Davanagere: Davanagere
+Dharwad: Dharwad
+Gadag: Gadag
+Gulbarga: Gulbarga
+Hassan: Hassan
+Haveri: Haveri
+Kodagu: Kodagu
+Kolar: Kolar
+Koppal: Koppal
+Mandya: Mandya
+Mysore: Mysore
+Raichur: Raichur
+Ramanagara: Ramanagara
+Shimoga: Shimoga
+Tumkur: Tumkur
+Udupi: Udupi
+'Uttara Kannada': 'Uttara Kannada'
+Yadgir: Yadgir
+'North Goa': 'North Goa'
+'South Goa': 'South Goa'
+Lakshadweep: Lakshadweep
+Alappuzha: Alappuzha
+Ernakulam: Ernakulam
+Idukki: Idukki
+Kannur: Kannur
+Kasaragod: Kasaragod
+Kollam: Kollam
+Kottayam: Kottayam
+Kozhikode: Kozhikode
+Malappuram: Malappuram
+Palakkad: Palakkad
+Pathanamthitta: Pathanamthitta
+Thiruvananthapuram: Thiruvananthapuram
+Thrissur: Thrissur
+Wayanad: Wayanad
+Ariyalur: Ariyalur
+Chennai: Chennai
+Coimbatore: Coimbatore
+Cuddalore: Cuddalore
+Dharmapuri: Dharmapuri
+Dindigul: Dindigul
+Erode: Erode
+Kanchipuram: Kanchipuram
+Kanyakumari: Kanyakumari
+Karur: Karur
+Krishnagiri: Krishnagiri
+Madurai: Madurai
+Nagapattinam: Nagapattinam
+Namakkal: Namakkal
+Nilgiris: Nilgiris
+Perambalur: Perambalur
+Pudukkottai: Pudukkottai
+Ramanathapuram: Ramanathapuram
+Salem: Salem
+Sivaganga: Sivaganga
+Thanjavur: Thanjavur
+Theni: Theni
+'Thoothukudi (Tuticorin)': 'Thoothukudi (Tuticorin)'
+Tiruchirappalli: Tiruchirappalli
+Tirunelveli: Tirunelveli
+Tiruppur: Tiruppur
+Tiruvallur: Tiruvallur
+Tiruvannamalai: Tiruvannamalai
+Tiruvarur: Tiruvarur
+Vellore: Vellore
+Viluppuram: Viluppuram
+Virudhunagar: Virudhunagar
+Karaikal: Karaikal
+Mahe: Mahe
+'Puducherry (Pondicherry)': 'Puducherry (Pondicherry)'
+Yanam: Yanam
+Nicobar: Nicobar
+'North And Middle Andaman': 'North And Middle Andaman'
+'South Andaman': 'South Andaman'
