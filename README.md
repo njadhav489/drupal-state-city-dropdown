@@ -1,9 +1,10 @@
-# Drupal State City Dropdown
+# Drupal State City Dropdown  [ **Show cities based on selected state** ]
 
 ## Description
-This module allows you to display a dynamic state-city dropdown. Based on the selected state, the corresponding cities are shown in a dropdown. Currently, it contains a mapping of Indian states and cities in the code. This module is primarily designed to be used with the **Webform module**, where cities are dynamically populated based on the selected state. 
+This module allows you to display two dropdowns: one for **states** and one for **cities**. The cities dropdown will show options based on the selected state. Currently, the module includes a mapping of Indian states and cities in the code. The cities corresponding to the selected state will be shown in the cities dropdown. 
 
-You can customize the state and city lists according to your needs. If you're not using the Webform module, you can skip adding states and cities in the admin panel.
+This module is designed to be used with the **Webform module**. You can customize the state and city lists as needed. If you're not using Webform, you can skip the step of creating state and city options in the admin panel.
+
 
 ## Features
 - Displays state and city dropdowns.
