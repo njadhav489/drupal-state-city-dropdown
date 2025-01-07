@@ -52,5 +52,5 @@ Feel free to modify the state and city lists in the code to match your requireme
 
 ---
 
-**Note**: If you encounter any issues or have suggestions for improvements, feel free to open an issue on the [GitHub Repository](https://github.com/njadhav489/statecity_webform).
+**Note**: If you encounter any issues or have suggestions for improvements, feel free to open an issue on the [GitHub Repository](https://github.com/njadhav489/drupal-state-city-dropdown).
 
