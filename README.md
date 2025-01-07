@@ -1,4 +1,5 @@
-# Drupal State City Dropdown  [ **Show cities based on selected state** ]
+# Drupal State City Dropdown  
+[ **Show cities based on selected state** ]
 
 ## Description
 This module allows you to display two dropdowns: one for **states** and one for **cities**. The cities dropdown will show options based on the selected state. Currently, the module includes a mapping of Indian states and cities in the code. The cities corresponding to the selected state will be shown in the cities dropdown. 
