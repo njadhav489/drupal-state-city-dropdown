@@ -32,8 +32,6 @@ class StatecityWebformController extends ControllerBase
                 break;
             }
         }
-        // print_r($states);
-        // echo $stateId;  die;
 
         $districtsArray = statecity_webform_getDistrictData();
 
